@@ -10,7 +10,8 @@
   "author": "Altay Simsek",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "standard": "^14.3.4"
   },
   "dependencies": {
     "ascii-table": "0.0.9",
