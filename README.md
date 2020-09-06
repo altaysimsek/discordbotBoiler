@@ -1,1 +1,1 @@
-discordbotBoiler
+You need to change config.js

@@ -1,0 +1,20 @@
+{
+  "name": "sadboibot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "Altay Simsek",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "axios": "^0.20.0",
+    "discord.js": "^12.3.1"
+  }
+}
