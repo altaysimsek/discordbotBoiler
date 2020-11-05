@@ -2,6 +2,8 @@
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+I prepared this template in order to pass the simple but necessary steps we need to do while creating a discord bot from scratch.
+
 # 🚀 Features
 
  - Have a command handler
@@ -12,7 +14,7 @@
 >Before the starting your bot you need to configure your bot from **config.json**
 >You need to change your prefix and token.
 
-    npm i
+    npm install #You need to install depencies first
     npm start
 
 If you want to run on dev ;
